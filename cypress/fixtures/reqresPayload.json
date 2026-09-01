@@ -1,0 +1,7 @@
+{
+  "updatePut": { "name": "Morpheus", "job": "Zion Resident" },
+  "updatePatch": { "job": "Matrix Developer" },
+  "validAuth": { "email": "eve.holt@reqres.in", "password": "pistol" },
+  "invalidRegister": { "email": "sydney@fife" },
+  "invalidLogin": { "email": "juan@klaven" }
+}

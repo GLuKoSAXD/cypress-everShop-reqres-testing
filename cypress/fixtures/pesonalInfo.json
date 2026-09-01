@@ -1,0 +1,11 @@
+{
+  "email": "juanganteng@gmail.com",
+  "fullname": "Juan Peter Ajalah Ga Panjang Panjang",  
+  "telephone": "081234567890",
+  "address": "Jl. Raya No. 123, Jakarta, Indonesia", 
+  "city": "Jakarta",    
+  "country": "United States",
+  "province": "Florida",
+  "zip" : "12345",
+  "note" :  "testing cypress dawg"
+}       
